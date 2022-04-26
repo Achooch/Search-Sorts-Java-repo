@@ -11,5 +11,7 @@
 	 * - radix
 	 * - quick
 	 * - selection
-	 * -shell
+	 * - shell
 	 */
+	 
+	 Also to include a few different search options. Perhaps taking in different data types for both Search and Sorting
